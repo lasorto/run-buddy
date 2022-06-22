@@ -50,14 +50,10 @@ section {
 /*start of hero*/
 .hero {
     background-image: url(../images/hero-bg.jpg);
-    height: auto;
+    height: 600px;
     background-size: cover;    
     background-position: center;
     position: relative;
-    color:#fce138;
-    text-align: center;
-    border-color: #fce138;
-
 }
 
 .hero-form  {
