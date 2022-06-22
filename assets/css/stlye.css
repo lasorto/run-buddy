@@ -213,6 +213,15 @@ section{
     font-size: 38px;
 }
 
+.contact {
+    background-color: #024e76;   
+}
+
+.contact h2 {
+    color:#fce138;
+    text-align: center;
+}
+
 footer {
     background: #fce138;
     width: 100%;
